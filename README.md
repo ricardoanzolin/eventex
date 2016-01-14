@@ -2,6 +2,9 @@
 
 Sistema de Eventos
 
+[![Build Status](https://travis-ci.org/ricardoanzolin/eventex.svg?branch=master)](https://travis-ci.org/ricardoanzolin/eventex)
+[![Code Health](https://landscape.io/github/ricardoanzolin/eventex/master/landscape.svg?style=flat)](https://landscape.io/github/ricardoanzolin/eventex/master)
+
 ## Como desenvolver?
 
 1. Clone o repositório.
