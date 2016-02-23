@@ -1,5 +1,5 @@
 from django.contrib import admin
-from eventex.core.models import Speaker, Contact
+from eventex.core.models import Speaker, Contact, Talk
 
 # Register your models here.
 
@@ -25,3 +25,4 @@ class SpeakerModelAdmin(admin.ModelAdmin):
     photo_img.short_description = 'foto'
 
 admin.site.register(Speaker, SpeakerModelAdmin)
+admin.site.register(Talk)
